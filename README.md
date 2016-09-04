@@ -1,5 +1,15 @@
 # Team Deathmatch - Project Proposal - Bulletin
 
+  - [Introduction](#introduction)
+  - [Concept](#concept)
+    - [Walkthrough](#walkthrough)
+    - [Future Features](#future-features)
+  - [Team](#team)
+  - [Conflict Resolution](#conflict-resolution)
+  - [Communication](#communication)
+  - [Plans](#plans)
+  - [Tags](#tags)
+
 ## Introduction
 The project that will be undertaken over the course of the semester in DECO3500 involves generating a new idea that addresses an existing issue or dilemma in the domain of news or journalism. The project will be developed utilising social, mobile and web technologies in order to explore how the dilemma can be resolved and to create a proof of concept prototype. More specifically, the dilemma the team has chosen to address is how might we make news more quickly and easily consumable for users on the go? Our goal is to prototype and build a mobile application that addresses this dilemma with a viable, appealing and engaging design that is capable of making a real impact in the news domain.
 
