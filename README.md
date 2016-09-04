@@ -21,6 +21,30 @@ As users watch the video snippets, they will be presented with options to save o
 
 The application differs from other current news platforms both in the way the content is curated and how users can interact with it. Delivering short form news videos from various places to users whilst they’re out and about who otherwise may not have the time to read up on the news until they arrive home is a very appealing problem space, and one which no single application has been able to address fully yet. 
 
+###Walkthrough:
+
+- The user opens the application on their phone, and logs into their account if they haven’t already.
+
+- The user is then prompted to either select the amount of time they have available or simply choose to browse at their own leisure. The user can select anywhere from 1 to 15 minutes.
+
+- If the user chooses to set a specific length of time, then they will also have the option to select/deselect topics for inclusion in their feed. For example, the user may only be interested in seeing sports news if they know a recent game has happened, but not at other times.
+
+- Taking the selected time length and chosen interests, as well as utilising other information such as location and previous likes/dislikes, the application will compile a playlist or queue for the user of short video news snippets.
+
+- The user will be able to see the playlist, and optionally re-order it by dragging titles up or down before they begin watching.
+
+- Once they begin watching, they will be able to quickly swipe through the videos as well as fast-forward each video.
+
+- For each video, the user will have the option to like/dislike videos to influence what is shown to them in the future.
+
+- The user will also be able to save or bookmark videos, which will add the original article or news video to a list of external links they want to read later when they have more time.
+
+
+###Future Features:
+
+A potential future feature of the application may be displaying timed comments, similar to Soundcloud, which would pop up throughout the news videos. Allowing people to comment on specific sections of news reports would be useful primarily for allowing users to discuss certain things said at certain points of the videos. Users would also be able to fact check with other users, and provide their opinions directly when and where they thought of them. Although we believe this feature could be an asset to the overall usefulness of the application, it has potential to overcomplicate the efficiency and streamlined nature of the application which is the primary focus. The benefits and downfalls of including this feature will be explored and developed further if time permits.
+
+
 
 ## Team
 
