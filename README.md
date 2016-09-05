@@ -158,9 +158,9 @@ The User Researchers will handle all user testing with test participants and wil
 
 ## Tags
 
-`#collaboration` 
-`#socialnetworking`
-`#conversation`
+`#personalized` 
+`#mobileapplication`
+`#interactive`
 `#cswc`
 `#onthego`
 
