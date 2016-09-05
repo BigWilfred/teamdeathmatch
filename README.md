@@ -157,13 +157,11 @@ The User Researchers will handle all user testing with test participants and wil
 
 
 ## Tags
-###**Social/Mobile Computing**
-`#`
-`#`
-`#`
-`#`
-`#`
 
-###**News/Journalism**
-`#`
-`#`
+`#`collaboration 
+`#`socialnetworking
+`#`conversation
+`#`cswc
+`#`onthego
+
+
