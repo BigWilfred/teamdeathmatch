@@ -19,7 +19,7 @@
   - [Tags](#tags)
 
 ## Introduction
-The project that will be undertaken over the course of the semester in DECO3500 involves generating a new idea that addresses an existing issue or dilemma in the domain of news or journalism. The project will be developed utilising social, mobile and web technologies in order to explore how the dilemma can be resolved and to create a proof of concept prototype. More specifically, the dilemma the team has chosen to address is how might we make news more quickly and easily consumable for users on the go? Our goal is to prototype and build a mobile application that addresses this dilemma with a viable, appealing and engaging design that is capable of making a real impact in the news domain.
+The project that will be undertaken over the course of the semester in DECO3500 involves generating a new idea that addresses an existing issue or dilemma in the domain of news or journalism. The project will be developed utilising social, mobile and web technologies in order to explore how the dilemma can be resolved and to create a proof of concept prototype. More specifically, the dilemma the team has chosen to address is how might we make news more quickly and easily consumable for users on the go. Our goal is to prototype and build a mobile application that addresses this dilemma with a viable, appealing and engaging design that is capable of making a real impact in the news domain.
 
 ## Concept
 The project our team has proposed centres around the issue of people on the go (or with very little time) not having a quick and easy way to consume the latest news. Current news applications require users to scroll through headlines and open up stories they are interested in one by one. Even in this case, some users are inconvenienced more than others based on their interests. For example, sports news is typically featured only at the very bottom of the news applications’ front pages. Below are a few examples of current news applications, and their convoluted scrolling based deliveries:
@@ -141,16 +141,16 @@ Scrum methodology will be used in this project due to the short amount of time t
 ![Sprint Schedule](http://i.imgur.com/wKYpWHx.jpg)
 
 ###Human Resources  
-All members of Team Deathmatch will attempt to work on all aspects of the project. No one member will have a specific title and instead cover multiple roles as specified in the team section prior. Below are some role descriptions that cover what each role will be responsible for and who they will work closely with. 
+All members of Team Deathmatch will attempt to work on all aspects of the project. No one will have a specific title and instead cover multiple roles as specified in the team section prior. Below are some role descriptions that cover what each role will be responsible for and who they will work closely with. 
 
 ####Front End Web Developer  
 The Front End Web Developers will construct the front end user interface of the web prototype. They will work closely with the designer to ensure that the visual designers created are properly recreated in the prototype.
 
 ####Back End Web Developer  
-The Back End Developer will be handle all database design and construction and code backend web language. They will work closely with the Front End Web Developers to ensure that all functionality between the frontend and backend works as intended and without sporadic failure. 
+The Back End Developers will be handle all database design and construction and code backend web language. They will work closely with the Front End Web Developers to ensure that all functionality between the frontend and backend works as intended and without sporadic failure. 
 
 ####User Experience/Interface Designer  
-The user experience/visual designer will design the application interface to ensure the best user experience. They will work closely with the Front End Web Developer to build the user interface and help create the CSS style sheets. They will also work closely with the User Research to help user test their interface designs and ensure a good user experience.   
+The user experience/visual designers will design the application interface to ensure the best user experience. They will work closely with the Front End Web Developer to build the user interface and help create the CSS style sheets. They will also work closely with the User Research to help user test their interface designs and ensure a good user experience.   
 
 ####User Researcher  
 The User Researchers will handle all user testing with test participants and will be in charge of analysing and understanding all qualitative and quantitative data received. They will work closely with the User Experience/Visual Designer to test the interface design and user experience on test participants.
