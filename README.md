@@ -108,6 +108,25 @@ Zenhub will be used alongside with Github in able to manage projects in Github e
 
 ## Plans
 
+###Project Phases
+
+
+###Human Resources  
+All members of Team Deathmatch will attempt to work on all aspects of the project. No one member will have a specific title and instead cover multiple roles as specified in the team section prior. Below are some role descriptions that cover what each role will be responsible for and who they will work closely with. 
+
+####Front End Web Developer  
+The Front End Web Developers will construct the front end user interface of the web prototype. They will work closely with the designer to ensure that the visual designers created are properly recreated in the prototype.
+
+####Back End Web Developer  
+The Back End Developer will be handle all database design and construction and code backend web language. They will work closely with the Front End Web Developers to ensure that all functionality between the frontend and backend works as intended and without sporadic failure. 
+
+####User Experience/Interface Designer  
+The user experience/visual designer will design the application interface to ensure the best user experience. They will work closely with the Front End Web Developer to build the user interface and help create the CSS style sheets. They will also work closely with the User Research to help user test their interface designs and ensure a good user experience.   
+
+####User Researcher  
+The User Researchers will handle all user testing with test participants and will be in charge of analysing and understanding all qualitative and quantitative data received. They will work closely with the User Experience/Visual Designer to test the interface design and user experience on test participants.
+
+
 ## Tags
 ###**Social/Mobile Computing**
 `#`
