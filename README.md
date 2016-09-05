@@ -13,6 +13,8 @@
     - [File Sharing and Storage](#file-sharing-and-storage)
     - [Prototype Management](#prototype-management)
   - [Plans](#plans)
+    - [Project Phases](#project-phases)
+    - [Human Resources](#human-resources)
   - [Tags](#tags)
 
 ## Introduction
