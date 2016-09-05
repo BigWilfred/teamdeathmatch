@@ -138,7 +138,7 @@ Zenhub will be used alongside with Github in able to manage projects in Github e
 ###Sprint Plan  
 Scrum methodology will be used in this project due to the short amount of time that the team has. The project will be split into 3 sprints where each sprint is 2 weeks long, approximately 10 hours a week. 
 
-![Sprint Schedule](http://imgur.com/a/sLvMl)
+![Sprint Schedule](http://i.imgur.com/wKYpWHx.jpg)
 
 ###Human Resources  
 All members of Team Deathmatch will attempt to work on all aspects of the project. No one member will have a specific title and instead cover multiple roles as specified in the team section prior. Below are some role descriptions that cover what each role will be responsible for and who they will work closely with. 
