@@ -158,10 +158,10 @@ The User Researchers will handle all user testing with test participants and wil
 
 ## Tags
 
-`#`collaboration 
-`#`socialnetworking
-`#`conversation
-`#`cswc
-`#`onthego
+`#collaboration` 
+`#socialnetworking`
+`#conversation`
+`#cswc`
+`#onthego`
 
 
