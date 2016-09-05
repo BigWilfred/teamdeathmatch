@@ -13,7 +13,7 @@
     - [File Sharing and Storage](#file-sharing-and-storage)
     - [Prototype Management](#prototype-management)
   - [Plans](#plans)
-    - [Project Phases](#project-phases)
+    - [Project Stages](#project-stages)
     - [Human Resources](#human-resources)
   - [Tags](#tags)
 
@@ -110,8 +110,29 @@ Zenhub will be used alongside with Github in able to manage projects in Github e
 
 ## Plans
 
-###Project Phases
+###Project Stages
 
+####Stage 1 - Project Initialization: 05/09/2016
+- Team Formation
+- Problem Identification
+- Project Plan
+- Proposal Presentation
+
+####Stage 2 - Research: 14/09/2016  
+- Identify Stakeholders
+- Stakeholder Interviews
+- Identify Use Context
+
+####Stage 3 - Design: 05/10/2016  
+- Wireframes
+- Mock-ups
+- System Architecture 
+- Low Fidelity User Testing
+
+####Stage 4 - Development: 19/10/2016
+- Front End Development
+- Back End Development
+- High Fidelity User Testing
 
 ###Human Resources  
 All members of Team Deathmatch will attempt to work on all aspects of the project. No one member will have a specific title and instead cover multiple roles as specified in the team section prior. Below are some role descriptions that cover what each role will be responsible for and who they will work closely with. 
