@@ -1,4 +1,4 @@
-# Team Deathmatch - Project Proposal - Bulletin
+# Team Deathmatch - Bulletin
 
   - [Introduction](#introduction)
   - [Concept](#concept)
@@ -17,6 +17,9 @@
     - [Sprint Plan](#sprint-plan)
     - [Human Resources](#human-resources)
   - [Tags](#tags)
+  
+#### Updates
+  - [User Personas and Scenarios](#user-personas-and-scenarios)
 
 ## Introduction
 The project that will be undertaken over the course of the semester in DECO3500 involves generating a new idea that addresses an existing issue or dilemma in the domain of news or journalism. The project will be developed utilising social, mobile and web technologies in order to explore how the dilemma can be resolved and to create a proof of concept prototype. More specifically, the dilemma the team has chosen to address is how might we make news more quickly and easily consumable for users on the go. Our goal is to prototype and build a mobile application that addresses this dilemma with a viable, appealing and engaging design that is capable of making a real impact in the news domain.
@@ -168,5 +171,43 @@ The User Researchers will handle all user testing with test participants and wil
 `#bulletin`
 `#videoreporting`
 
+* * *
+
+## Updates
+
+### User Personas and Scenarios
+
+![The Quick Fixer](http://i.imgur.com/15RyN5M.png)
+
+The Quick Fixer - Someone who consumes news frequently as a ‘quick fix’, often out of distraction from other tasks or an itch to know what’s happening.
+
+This persona makes up a large portion of our target audience for this project. They are someone who would frequently visit the application, and would benefit from the fast delivery of news on demand. Being able to get news quickly and in one place would be a big selling point for them, as they would likely frequent the same news sites over and over checking for anything new. 
+
+If they are distracting themselves from other work they should be doing, they may not want to be presented with a screen asking them to select how much time they have. They may be unconsciously wandering from what they were doing, and screens like this may stop them from mindlessly accessing content by requiring them to stop and think about how much time they have. They may also have no need for a ‘save’ feature for videos, as they may be more motivated to know what’s happening rather than fully understand what’s happening.
 
 
+![The News Tracker](http://i.imgur.com/10e59NN.png)
+
+The News Tracker - Likes to keep informed about breaking stories by visiting news sites a few times over the course of the day to check for updates.
+
+This is another persona who makes up a bulk of the target audience for the application, but someone who would have only a slightly different experience from ‘The Quick Fixer’. The News Tracker would benefit from the application similarly for the collation of breaking news videos into one accessible place. They would be able to select specific preferences to have access to the breaking news they’re interested in tracking over time, and would be able to see what has developed since they last checked. 
+
+They may be disadvantages when using the application since only categories of news are selectable, rather than individually developing stories and as such they may see content they are not interested in. However, they may benefit from seeing other stories within the categories they are interested in, and may take advantage of the ‘save’ feature to check back on those stories when they are not preoccupied with what they are currently following.
+
+
+![The Time Filler](http://i.imgur.com/VYp1XL9.png)
+
+The Time Filler - Uses news as a way to fill the time, such as lunch breaks or time spent commuting or travelling between places.
+
+This persona is the ideal user within our target audience, as the timing feature will specifically appeal to their circumstance. They may be on the bus home and only have 10 minutes, maybe they arrive at the train station 5 minutes early every morning, or have any amount of time available to them between 2 and 15 minutes. Having the ability to select a time amount not only ensures they get the most important updates, but also make sure they don’t for example spend too long distracted by their phone that they miss their bus stop. 
+
+Having a consistent schedule means they may make a habit of visiting the application, and would therefore have a need for some kind of saved preferences functionality since they would likely follow the same pattern every time they access the application. They may be discouraged if there is no new developments in the news topic of their choosing, and will be forced to go elsewhere to find something to fill their time. This is a key point which should be addressed.
+
+
+![The Story Indulger](http://i.imgur.com/GZWJmDm.png)
+
+The Story Indulger - Sets time aside in the day to consume and enjoy news, often at the start or end of the day (or both!).
+
+This persona is likely to also be within our primary user set that is targeted in the design of the application. Maybe they only check the application once or twice a day, but they will therefore have more content accessible to them because of the time period since they last checked the application. They are more likely to be the users selecting larger periods of time such as 10 or 15 minutes. 
+
+They are also the most likely users to find better alternatives in other applications or traditional news outlets, such as the morning or evening news. Because of this, it is important that the application serves their needs and presents itself as the easiest option. It is also possible that some users of the application fall under the categories of The Story Indulger and another persona. They may have accessed the application briefly throughout the day and came across some articles they were interested in but did not have time to explore further. In which case, the ‘save’ functionality would be perfect in collating and delivering this content to them in it’s original form which they can access when they have set aside time.
