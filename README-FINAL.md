@@ -19,6 +19,7 @@ Bulletin has been designed specifically to cater to the issues with the current 
  
 ### The Audience
 Bulletin is the perfect application for daily commuters who already use their time to check up on the latest news. Being able to select a specific amount of time means they can get the perfectly curated list of videos delivered straight to their phone to match their preferences and their commute time. <br>
+![Audience](https://i.gyazo.com/5502d5569ca5f6e95ed0d9c9a5d872aa.png)
 
 However, Bulletin can be used by anyone at any time, not just commuters. The app aggregate and display news from a number of different media outlets, so it is guaranteed to have content anyone would be interested in. Users are also allowed to add their friend’s playlist to their own playlist. Setting up preferences for media outlets and category preferences will allow our users to customise their experience even further.
  
@@ -36,7 +37,9 @@ Ultimately, we learned a lot from this first iteration, primarily in the form of
 The second iteration of our idea still had a lot of features carried over from the first version, but we decided to design our application to focus on a different target audience, commuters. We all had expressed observations we had made about our own habits and the habits of those around us on our daily trips to university, and found that a lot of people were spending their time browsing news. We realised that most people will make the same commute to and from work every day, meaning that they always have a specific amount of time in their day with which we could target our app. This element of time was particularly important for us, so we decided to work in an option to select the amount of time you had and let the app build the playlist of videos around that. <br>
 
 Below you can see a few examples of brainstorming and initial mock ups: <br>
- 
+![](https://i.gyazo.com/6ac3e63ca736e29da839938d93a77d5d.jpg)
+![](https://i.gyazo.com/083af1c0fd8fb3ef860b2c4d1908d81b.jpg)
+![](https://i.gyazo.com/0de397b5df6514fb37147432cb74fd6c.png)
 
 Moving forward, we decided that pursuing the commuter market was our best opportunity, and one which could be fairly easily tapped into. There are a lot of competitors in the form of news aggregators, especially personalised ones, but nothing that captivated the video news market. We still had a number of things to work out in terms of incorporating a social aspect into this idea, but it presented itself as the strongest one moving forward. <br>
 
@@ -46,8 +49,12 @@ We also wanted expand our target audience to commuters who drive to work daily. 
  
  
  
-## Tasks Distribution
-Astrid  : Research, Promotional Website <br>
-Daniel  : Mock ups, Wireframes, Prototype <br>
-Phillip : Research, Prototype Videos <br>
-Giselle : Research, User testing sessions <br>
+## Team 
+
+Team Member  | Student Number | Degree        | Responsibilities 
+------------- | ------------- | ------------- | ---------------- 
+Astrid Farmer |43527193       |BMultMedDes     |Research, Promotional Website
+Daniel Fraser |43595839       |BMultMedDes    |Mock ups, Wireframes, Prototype
+Giselle Pastulero |43527652   | BInfTech/ BComm  |Research, User testing sessions
+Phillip Townsend | 43538425   |BInfTech       |Research, Prototype Videos
+
