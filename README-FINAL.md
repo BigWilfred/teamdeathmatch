@@ -9,7 +9,7 @@ https://marvelapp.com/ig1446 <br>
 ### _Step by Step Guide:_
  
 ## About the Project 
-_Note: All the research done for this project can be found on the team’s wiki pages on Github. User testing results and procedures that highly affected our iterations can also be found on our wiki pages._
+_Note: All the research done for this project can be found on the team’s wiki pages on Github. User testing results and procedures that highly affected our iterations can be found on our wiki pages._
  
 ### _The Problem_
 Despite a huge influx of mobile users reading news daily on their phones, often during their daily commute on public transport, people are still required to scroll through news websites and apps to find what they want to read. Opening up news stories one by one is a time consuming and annoying process when you’re trying to find something interesting to read. Some users are inconvenienced by the nature of the design on these sites, for example, sports news are typically featured only at the very bottom of the news app’s front page. Though such readily available mobile news has been a great push in the right direction, these apps are as impersonal as a newspaper. They display what they think you’ll want to read, but really you probably tend to read the same sections and look for the same types of articles as you normally do. <br>
