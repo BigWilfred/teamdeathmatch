@@ -4,7 +4,7 @@ https://deco3500.github.io/teamdeathmatch/promosite/index.html
 # Prototype
 The Marvel App prototype is accessible from the following link: <br>
 https://marvelapp.com/ig1446 <br>
-  ### Step by Step Guide:
+### Step by Step Guide:
  
 # About the Project 
 Note: All the research done for this project can be found on the team’s wiki pages on Github. User testing results and procedures that highly affected our iterations can also be found on our wiki pages. 
