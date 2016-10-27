@@ -26,6 +26,7 @@ However, Bulletin can be used by anyone at any time, not just commuters. The app
 ### Iteration 1: <br>
 The initial idea which the team had planned to be developed was selected from a pool of all the ideas students had come up with in the class. It was aiming to answer the question of ‘How might we make the news more quickly accessible and easily consumable for mobile users on the go who just want a quick update?’. It was inspired by a number of other applications out there which were not specifically in the journalism space like Snapchat and Soundcloud. It would allow users to quickly swipe through short news videos with the ability to like or dislike videos to influence content displayed to them in the future. <br>
 The original poster of the idea can be seen below: <br>
+![Idea](https://i.gyazo.com/30c7ce60edb8ff244412fa2e7c15f758.png) <br>
 
 Very quickly the team realised that although the concept seemed promising, there were a number of aspects in the idea which when considered further did not appear to be feasible or logical given the audience we were aiming for. We decided that the idea was too similar to other applications and did not offer anything exciting, new or innovative in the space of news, it was more of a response to problems with other applications rather than a new idea of our own. <br>
 
