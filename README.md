@@ -78,10 +78,10 @@ Another technique that we used consistently was our personas. These personas foc
 ### User Research:
 Understand what sort of environment we were designing was important for our group. Without having a good idea of who the primary user was, what their reading patterns were or how they used technology would mean we couldn’t possibly design with their needs in mind. At the beginning of the semester we did a lot of research into the user and their needs, this research is presented in the wikis below. 
 
-*[American Press Institude Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-American-Press-Institute-Article)<br>
-*[Knight Foundation Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Knight-Foundation-Article-from-Medium.com)<br>
-*[Pew Research Centre Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Pew-Research-Center-Article)<br>
-*[Mobile News Research](https://github.com/deco3500/teamdeathmatch/wiki/Mobile-News-Research)<br>
+[American Press Institude Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-American-Press-Institute-Article)<br>
+[Knight Foundation Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Knight-Foundation-Article-from-Medium.com)<br>
+[Pew Research Centre Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Pew-Research-Center-Article)<br>
+[Mobile News Research](https://github.com/deco3500/teamdeathmatch/wiki/Mobile-News-Research)<br>
 
 
 ### User Testing:
@@ -96,7 +96,7 @@ User testing was an integral tool to figuring out if the iterations of our desig
 Team Member  | Student Number | Degree        | Responsibilities 
 ------------- | ------------- | ------------- | ---------------- 
 Astrid Farmer |43527193       |BMultMedDes     |Research, Promotional Website
-Daniel Fraser |43595839       |BMultMedDes    |High Fidelity Mock ups, Low Fidelity Wireframes, Prototype
+Daniel Fraser |43595839       |BMultMedDes    |High-Fid Mock ups, Low-Fid Wireframes, Prototype
 Giselle Pastulero |43527652   | BInfTech/ BComm  |Research, User testing sessions
 Phillip Townsend | 43538425   |BInfTech       |Research, Prototype Videos
 
