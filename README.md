@@ -73,19 +73,15 @@ To help rapidly iterate over ideas and work through basic interface structures w
 ### Personas:
 Another technique that we used consistently was our personas. These personas focused extensively on types of news consumers. Whenever we had ideas for iteration we would cross reference these ideas with the personas and see what sort of user type we are trying to serve.
 
-[](https://github.com/deco3500/teamdeathmatch#user-personas-and-scenarios)
+[Find Personas Here](https://github.com/deco3500/teamdeathmatch#user-personas-and-scenarios)
 
 ### User Research:
 Understand what sort of environment we were designing was important for our group. Without having a good idea of who the primary user was, what their reading patterns were or how they used technology would mean we couldn’t possibly design with their needs in mind. At the beginning of the semester we did a lot of research into the user and their needs, this research is presented in the wikis below. 
 
-[](https://github.com/deco3500/teamdeathmatch/wiki/Research:-American-Press-Institute-Article
-)
-[Knight Foundation Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Knight-Foundation-Article-from-Medium.com
-)
-[American Press Institude Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-American-Press-Institute-Article)
-[Knight Foundation Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Knight-Foundation-Article-from-Medium.com)
-[Pew Research Centre Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Pew-Research-Center-Article)<br>
-[Mobile News Research](https://github.com/deco3500/teamdeathmatch/wiki/Mobile-News-Research)
+*[American Press Institude Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-American-Press-Institute-Article)<br>
+*[Knight Foundation Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Knight-Foundation-Article-from-Medium.com)<br>
+*[Pew Research Centre Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Pew-Research-Center-Article)<br>
+*[Mobile News Research](https://github.com/deco3500/teamdeathmatch/wiki/Mobile-News-Research)<br>
 
 
 ### User Testing:
