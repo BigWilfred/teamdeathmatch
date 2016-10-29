@@ -46,7 +46,8 @@ Moving forward, we decided that pursuing the commuter market was our best opport
 We also wanted expand our target audience to commuters who drive to work daily. We figured that we could deliver similar content to these users in a hands free audio version, and still largely achieve the same effect. The user interface would need to be very different as we would not want to encourage people to be tapping and swiping on their phones whilst driving, however, we saw a simple solution to this in using an audio driven version of the application. Potentially including voice or Bluetooth controls, users would be able to substitute listening to the news on the radio for listening to a curated playlist of the latest news delivered directly to their phone. <br>
 
 ### _Final Iteration 3:_ <br>
- 
+ The third and final iteration of Bulletin involved a few added features such as the idea of linking the app with a user’s Facebook profile and a new feature called called the curated lists. This iteration was born out of feedback from the tutors saying that Bulletin lacked social capabilities. Our answer to this critique was to further develop the idea of saving a news story and have that turn into a list of stories that can be shared and involved with other users’ playlists. A users own playlists will be viewable in an area called their “Bulletin Board” and theses playlists can be shared on Facebook if a user links their account. After doing some research we found that people did in fact enjoy learning and understanding what news their friends are viewing.
+ <br>
  
  
 ## Team 
