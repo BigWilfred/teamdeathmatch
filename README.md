@@ -19,9 +19,7 @@ Following the instructions prompted will allow you to install the prototype on y
 
 If you want the full experience of the prototype. Firstly open and play around with the prototype on your phone, experience it with the context and reactions we designed it for and then open it on a desktop or laptop browsers and go through seeing each screen in its full appearance. <br>
 
-## About the Project 
-_Note: All the research done for this project can be found on the team’s wiki pages on Github. User testing results and procedures that highly affected our iterations can be found on our wiki pages._
- 
+## Summary
 ### _The Problem_
 Despite a huge influx of mobile users reading news daily on their phones, often during their daily commute on public transport, people are still required to scroll through news websites and apps to find what they want to read. Opening up news stories one by one is a time consuming and annoying process when you’re trying to find something interesting to read. Some users are inconvenienced by the nature of the design on these sites, for example, sports news it typically featured only at the very bottom of the news app’s front page. Though such readily available mobile news has been a great push in the right direction, these apps are as impersonal as a newspaper. They display what they think you’ll want to read, but really you probably tend to read the same sections and look for the same types of articles as you normally do. On top of this standard mobile news services offer little social functionality outside of sharing a to social media feeds.<br>
 
@@ -29,33 +27,6 @@ Despite a huge influx of mobile users reading news daily on their phones, often 
 
 ### _The Solution_
 With smartphones becoming nearly ubiquitous within our society, news is being increasingly targeted towards mobile users both in the form of responsive websites and mobile applications. Delivering your personalised news right to your phone will enable you to access the content you want when you want it. Bulletin utilises all the features of a mobile application, including push notifications, easy sharing options, and opportunities to connect with your friends and contacts. Users can set up preferences for media outlets and category preferences will allow you to customise your experience even further. Having users connect with their friends and family opens up more opportunity for news curation. In cases where users cannot decide on prefered topics or sources they can instead elect to view stories that their friends, family or well-known/trending users have favorited. Having users connect and build their own curated lists of stories to be shared later promotes a healthy stream of interesting and important news circulating. 
-
-
-## Idea Progression Iterations 
-### _Iteration 1:_ <br>
-The initial idea which the team had planned to be developed was selected from a pool of all the ideas students had come up with in the class. It was aiming to answer the question of ‘How might we make the news more quickly accessible and easily consumable for mobile users on the go who just want a quick update?’. It was inspired by a number of other applications out there which were not specifically in the journalism space like Snapchat and Soundcloud. It would allow users to quickly swipe through short news videos with the ability to like or dislike videos to influence content displayed to them in the future. <br>
-The original poster of the idea can be seen below: <br>
-![Idea](https://i.gyazo.com/30c7ce60edb8ff244412fa2e7c15f758.png) <br>
-
-Very quickly the team realised that although the concept seemed promising, there were a number of aspects in the idea which when considered further did not appear to be feasible or logical given the audience we were aiming for. We decided that the idea was too similar to other applications and did not offer anything exciting, new or innovative in the space of news, it was more of a response to problems with other applications rather than a new idea of our own. <br>
-
-Ultimately, we learned a lot from this first iteration, primarily in the form of getting a clearer understanding of the demographics, use cases, and motivations which we were attempting to target. We also gave ourselves a bit of a push to come up with a better idea building on the pros of this first idea. <br>
-
-### _Idea/Iteration 2:_ <br>
-The second iteration of our idea still had a lot of features carried over from the first version, but we decided to design our application to focus on a different target audience, commuters. We all had expressed observations we had made about our own habits and the habits of those around us on our daily trips to university, and found that a lot of people were spending their time browsing news. We realised that most people will make the same commute to and from work every day, meaning that they always have a specific amount of time in their day with which we could target our app. This element of time was particularly important for us, so we decided to work in an option to select the amount of time you had and let the app build the playlist of videos around that. <br>
-
-Below you can see a few examples of brainstorming and initial mock ups: <br>
-![](https://i.gyazo.com/6ac3e63ca736e29da839938d93a77d5d.jpg)
-![](https://i.gyazo.com/083af1c0fd8fb3ef860b2c4d1908d81b.jpg)
-![](https://i.gyazo.com/0de397b5df6514fb37147432cb74fd6c.png)
-
-Moving forward, we decided that pursuing the commuter market was our best opportunity, and one which could be fairly easily tapped into. There are a lot of competitors in the form of news aggregators, especially personalised ones, but nothing that captivated the video news market. We still had a number of things to work out in terms of incorporating a social aspect into this idea, but it presented itself as the strongest one moving forward. <br>
-
-We also wanted expand our target audience to commuters who drive to work daily. We figured that we could deliver similar content to these users in a hands free audio version, and still largely achieve the same effect. The user interface would need to be very different as we would not want to encourage people to be tapping and swiping on their phones whilst driving, however, we saw a simple solution to this in using an audio driven version of the application. Potentially including voice or Bluetooth controls, users would be able to substitute listening to the news on the radio for listening to a curated playlist of the latest news delivered directly to their phone. <br>
-
-### _Final Iteration 3:_ <br>
- The third and final iteration of Bulletin involved a few added features such as the idea of linking the app with a user’s Facebook profile and a new feature called called the curated lists. This iteration was born out of feedback from the tutors saying that Bulletin lacked social capabilities. Our answer to this critique was to further develop the idea of saving a news story and have that turn into a list of stories that can be shared and involved with other users’ playlists. A users own playlists will be viewable in an area called their “Bulletin Board” and theses playlists can be shared on Facebook if a user links their account. After doing some research we found that people did in fact enjoy learning and understanding what news their friends are viewing.
- <br>
  
 ## Process
 Bulletin went through multiple design iterations throughout the semester after received feedback from the tutors and our cohort in stand ups and feedback from user testing sessions.
