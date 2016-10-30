@@ -4,20 +4,20 @@
 https://deco3500.github.io/teamdeathmatch/promosite/index.html 
  
 ## Prototype
-Team Deathmatch created their prototype of Bulletin using the web tool Marvel. Marvel allowed us to create mockups of the site and connect them with touch hot spots. This was a simple way to simulate the user’s journey and actions they take when using the app. Marvel also allowed us to easily open the prototype on our phones for user testing. When we received user testing feedback and planned changes we could easily change the mockups and replace the old ones to improve the prototype.<br>
+Team Deathmatch has created a prototype for the Bulletin project using the web tool Marvel. Marvel allowed us to create mockups of the site and connect them with touch hot spots to provide a realistic experience. This was a simple way to simulate the user’s journey and actions they take when using the app. Marvel also allowed us to easily open the prototype on our phones for user testing. When we received user testing feedback and planned changes, we could easily change the mockups and replace the old ones to improve the prototype.<br>
 
 Prototype Link: https://marvelapp.com/ig1446 <br>
 
 ### _Setup Guide:_
-Bulletin is a mobile application so to get the proper experience we would prefer you to use our prototype on your phone. Opening and using the Marvel app prototype will mean some of the swipe interactions we implemented won’t be usable and you will have to default to clicking.
+Bulletin has been designed as a mobile application, so to get the proper experience we would prefer you to use our prototype on your phone. Whilst opening and using the Marvel app prototype on a desktop will allow you to see all the screens we have designed, it will mean that none of the swipe interactions and gestures that have been implemented will not be usable, and you will have to instead revert to clicking on the hotspots. Please note: the prototype has been designed to fit older iPhones, and as such may cause some screens to exceed the height of your phone, meaning you may have to scroll up and down a little to see the full screen.
 
-From an internet browser on your phone open the link provided above. You will be taken to our prototype landing page. You will be shown the screen captured below
+From an internet browser on your phone, open the link provided above. You will be taken to our prototype landing page. You will be shown the screen captured below if on iOS, or a slightly different version if on Anroid or Windows Phone.
 
 ![Marvel Screen](https://i.gyazo.com/7378a89f11b1cf705bdcd5447d31b3cf.png)
 
-Following the instructions prompted will allow you to install the prototype on your phone so you can experience it without the menu and address bars that browsers will have. You can view the prototype from the browser directly but because of the screen sizes you will have to scroll up and down to view the entire screen which is not the way we want to present the prototype.
+Following the instructions prompted will allow you to install the prototype on your phone so you can experience it without the menu and address bars that a mobile browser will have. You can view the prototype from the browser directly, but because of the screen sizes you will have to scroll up and down to view the entire screen which is not the way we want to present the prototype.
 
-If you want the full experience of the prototype. Firstly open and play around with the prototype on your phone, experience it with the context and reactions we designed it for and then open it on a desktop or laptop browsers and go through seeing each screen in its full appearance. <br>
+If you want the full experience of the prototype, firstly open and play around with the prototype on your phone, experience it with the context and reactions we designed it for and then open it on a desktop or laptop browsers and go through seeing each screen in its full appearance. <br>
 
 ## Summary
 ### _The Problem_
@@ -62,12 +62,12 @@ User testing was an integral tool to figuring out if the iterations of our desig
 [Second Session](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results-(Second-Testing-Session))
 
  
-## Team 
+## Team Contributions
 
-Team Member  | Student Number | Degree        | Responsibilities 
-------------- | ------------- | ------------- | ---------------- 
-Astrid Farmer |43527193       |BMultMedDes     |Research, Promotional Website
-Daniel Fraser |43595839       |BMultMedDes    |High-Fid Mock ups, Low-Fid Wireframes, Prototype
-Giselle Pastulero |43527652   | BInfTech/ BComm  |Research, User testing sessions
-Phillip Townsend | 43538425   |BInfTech       |Research, Prototype Videos
+Team Member  | Student Number | Responsibilities 
+------------- | ------------- | ---------------- 
+Astrid Farmer |43527193       |Re-working existing ideas throughout the semester, conducting market, demographic and technology research, supplementing user testing sessions, planning back-end implementation, creating promotional website for Bulletin
+Daniel Fraser |43595839       |Re-working existing ideas throughout the semester, developing initial low-fidelity wireframes, designing  high-fidelity mockups to be used in the prototype, creating the prototype on Marvel
+Giselle Pastulero |43527652   |Re-working existing ideas throughout the semester, conducting user and demographic research, running all user testing sessions, designing logo, compiling user testing results
+Phillip Townsend | 43538425   |Re-working existing ideas throughout the semester, interacting with and pitching to potential users, compiling prototype videos, planning back-end implementation
 
