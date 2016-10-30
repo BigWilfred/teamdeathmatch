@@ -67,9 +67,13 @@ From this session we received a lot of helpful feedback on the visual design and
 The full breakdown of all the results can be found in the dedicated wiki page [here.](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results). 
 
 #### [Second Session](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results-(Second-Testing-Session))
-##### Participants:
+##### Participants: 4
+##### Summary:  
+The second testing session focused on the social aspect of the prototype. The participants were given a set of questions tailored to help the team iterate the social feature of our app. 
 
- 
+This testing session helped the group figure out the confusing parts of the application according to the users. The participants were asked what they thought of the app's feature of adding their friend's news board onto their playlist. A lot of them said that they like that aspect. However, a few of the participants were confused on how it worked when they first tried out the prototype. The team decided to add an instruction page when a user starts a playlist for the first time. We also received feedback to change around the design for the prototype in order to emphasise the social aspect of the concept. The group decided to re-word some of the words around the application in order for a lesser confusion. 
+
+The full breakdown of all the results can be found in the dedicated wiki page [here.](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results-(Second-Testing-Session)). 
 ## Team Contributions
 
 Team Member  | Student Number | Responsibilities 
