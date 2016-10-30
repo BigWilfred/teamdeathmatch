@@ -57,8 +57,17 @@ Understand what sort of environment we were designing was important for our grou
 ### User Testing:
 User testing was an integral tool to figuring out if the iterations of our design were successful with possible users. User testing was the primary tool used towards the end of the semester when we started to refine the iterations of our design and focus on a single direction. Below are links to two user testing sessions that were conducted.
 
-[First Session](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results) <br>
-[Second Session](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results-(Second-Testing-Session))
+#### [First Session](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results) <br>
+##### Participants: 5  
+##### Summary:  
+The first testing session that we conducted looked primarily at the visual design and usability of the prototype. The testees were asked to firstly complete scenarios that a typical user would attempt. After they had completed the scenarios they were asked questions about their experience.
+
+From this session we received a lot of helpful feedback on the visual design and usability of the prototype. Testees feedback on the visual design led to many changes. One of the largest is the change from a dark color scheme to a much brighter color scheme. Testees also commented on how cluttered and confusing some pages were. We took this feedback and after discussing its validity amongst the group decided on design changes that would improve the user experience. We also received feedback on the way we worded the buttons and links in the prototype. We took this feedback and recreated our naming convention to be more consistent and reduce confusion on what buttons in the prototype do. 
+
+The full breakdown of all the results can be found in the dedicated wiki page [here.](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results). 
+
+#### [Second Session](https://github.com/deco3500/teamdeathmatch/wiki/User-Testing-Results-(Second-Testing-Session))
+##### Participants:
 
  
 ## Team Contributions
