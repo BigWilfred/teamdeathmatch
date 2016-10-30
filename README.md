@@ -44,7 +44,7 @@ To help rapidly iterate over ideas and work through basic interface structures w
 ### Personas:
 Another technique that we used consistently was our personas. These personas focused extensively on types of news consumers. Whenever we had ideas for iteration we would cross reference these ideas with the personas and see what sort of user type we are trying to serve.
 
-[Find Personas Here](https://github.com/deco3500/teamdeathmatch#user-personas-and-scenarios)
+[Find Personas Here](https://github.com/deco3500/teamdeathmatch/blob/master/README-PROJECTPROPOSAL.md#user-personas-and-scenarios)
 
 ### User Research:
 Understand what sort of environment we were designing was important for our group. Without having a good idea of who the primary user was, what their reading patterns were or how they used technology would mean we couldn’t possibly design with their needs in mind. At the beginning of the semester we did a lot of research into the user and their needs, this research is presented in the wikis below. 
