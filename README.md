@@ -52,7 +52,6 @@ Understand what sort of environment we were designing was important for our grou
 [American Press Institude Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-American-Press-Institute-Article)<br>
 [Knight Foundation Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Knight-Foundation-Article-from-Medium.com)<br>
 [Pew Research Centre Article](https://github.com/deco3500/teamdeathmatch/wiki/Research:-Pew-Research-Center-Article)<br>
-[Mobile News Research](https://github.com/deco3500/teamdeathmatch/wiki/Mobile-News-Research)<br>
 
 
 ### User Testing:
